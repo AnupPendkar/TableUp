@@ -1,0 +1,6 @@
+Define Toml file
+Integrate Toml file with nodeJs
+Based on Toml config send table, seats and unused area coordinates
+Based on x, y coordinates, show the layout
+Integrate the layout inside application.
+Add all order related features, into the app
